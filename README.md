@@ -1,5 +1,5 @@
 # 💫 About Me:
-I Currently work at SLMG Coca Cola Beverages Pvt. Ltd<br>I am Managed Information Technology<br>I Study Web Development, SQL, AI-Powered WBS & RCA, PowerBI
+I Currently work at IT Governance,Cybersecurity<br>I am Managed Information Technology<br>I Study Web Development, SQL, AI-Powered WBS & RCA, PowerBI
 
 
 ## 🌐 Socials:
