@@ -1,5 +1,5 @@
 # 💫 About Me:
-I Currently work as consultant<br>I am Software Development Life Cycle Cybersecurity<br>I Study Web Development, SQL, AI-Powered WBS & RCA, PowerBI
+I Currently work as Consultant<br>I am Software Development Life Cycle Cybersecurity R&D <br>I Study Web Development, SQL, AI-Powered WBS & RCA, PowerBI
 
 
 ## 🌐 Socials:
