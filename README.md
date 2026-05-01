@@ -1,5 +1,5 @@
 # 💫 About Me:
-Key:Consultant<br>Role: Software Development Life Cycle Cybersecurity R&D <br>Software Development,Kali Linux,SAST/DAST,ATS,SQL,AI-Powered WBS & RCA
+Key: Sr. IT Infrastructure & Operations Lead <br>Role: Software Development Life Cycle Cybersecurity R&D <br>Software Development, Kali Linux, SAST/DAST, ATS, SQL, AI-Powered WBS & RCA
 
 
 ## 🌐 Socials:
